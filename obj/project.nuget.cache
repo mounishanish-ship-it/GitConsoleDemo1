@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cezSugPpYsw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\GitConsoleDemo\\GitConsoleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

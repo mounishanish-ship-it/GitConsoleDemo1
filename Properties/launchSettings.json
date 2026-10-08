@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GitConsoleDemo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

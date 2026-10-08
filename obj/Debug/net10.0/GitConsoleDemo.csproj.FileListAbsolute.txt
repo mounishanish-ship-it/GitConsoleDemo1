@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\GitConsoleDemo\bin\Debug\net10.0\GitConsoleDemo.exe
+C:\Users\Hp\source\repos\GitConsoleDemo\bin\Debug\net10.0\GitConsoleDemo.deps.json
+C:\Users\Hp\source\repos\GitConsoleDemo\bin\Debug\net10.0\GitConsoleDemo.runtimeconfig.json
+C:\Users\Hp\source\repos\GitConsoleDemo\bin\Debug\net10.0\GitConsoleDemo.dll
+C:\Users\Hp\source\repos\GitConsoleDemo\bin\Debug\net10.0\GitConsoleDemo.pdb
+C:\Users\Hp\source\repos\GitConsoleDemo\obj\Debug\net10.0\GitConsoleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\GitConsoleDemo\obj\Debug\net10.0\GitConsoleDemo.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\GitConsoleDemo\obj\Debug\net10.0\GitConsoleDemo.AssemblyInfo.cs
+C:\Users\Hp\source\repos\GitConsoleDemo\obj\Debug\net10.0\GitConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\GitConsoleDemo\obj\Debug\net10.0\GitConsoleDemo.dll
+C:\Users\Hp\source\repos\GitConsoleDemo\obj\Debug\net10.0\refint\GitConsoleDemo.dll
+C:\Users\Hp\source\repos\GitConsoleDemo\obj\Debug\net10.0\GitConsoleDemo.pdb
+C:\Users\Hp\source\repos\GitConsoleDemo\obj\Debug\net10.0\GitConsoleDemo.genruntimeconfig.cache
+C:\Users\Hp\source\repos\GitConsoleDemo\obj\Debug\net10.0\ref\GitConsoleDemo.dll
